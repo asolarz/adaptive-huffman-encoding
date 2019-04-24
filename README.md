@@ -1,4 +1,4 @@
-# Project Title
+# Adaptive Huffman encoding
 
 Adaptive Huffman encoding
 
